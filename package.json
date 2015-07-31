@@ -1,0 +1,21 @@
+{
+  "name": "bee-app",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Ale <ale@songbee.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Songbee/bee-app.git"
+  },
+  "preferGlobal": true,
+  "dependencies": {},
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-extname": "^0.2.0",
+    "gulp-uglify": "^1.2.0",
+    "run-sequence": "^1.1.2"
+  }
+}

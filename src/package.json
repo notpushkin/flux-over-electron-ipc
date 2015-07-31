@@ -1,0 +1,21 @@
+{
+  "name": "bee-app",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Ale <ale@songbee.net>",
+  "license": "MIT",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Songbee/bee-app.git"
+  },
+  "dependencies": {
+    "fluxxor": "^1.7.0",
+    "moron": "^0.1.5",
+    "react": "^0.13.3",
+    "store2": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.19"
+  }
+}
